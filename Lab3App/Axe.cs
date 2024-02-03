@@ -1,4 +1,3 @@
-﻿// Axe.cs
 using System;
 
 namespace Lab3App
